@@ -1,0 +1,16 @@
+{
+  "login":"تسجيل الدخول",
+  "Skip": "تخطي",
+  "StartNow" : "أبداء الأن",
+  "next": "التالي",
+  "PhoneNumber": " رقم الهاتف ",
+  "Password": "كلمة المرور",
+  "AreYouForgetPassword": "هل نسيت كلمة المرور ؟",
+  "Enter" :"دخول",
+  "CreateAccount" : "إنشاء حساب",
+  "YouHaveNotAccount": "ليس لديك حساب ؟",
+  "OrLoginFromYour" : "أو تسجيل الدخول عبر",
+  "Welcome": "أهلا بعودتك",
+  "register" : "تسجيل",
+  "youAlreadyHaveAccount" : "لديك حساب بالفعل ؟"
+}

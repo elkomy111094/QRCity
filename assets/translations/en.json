@@ -1,0 +1,16 @@
+{
+  "login": "Login",
+  "Skip": "Skip",
+  "StartNow": "Start Now",
+  "next": "Next",
+  "PhoneNumber": "Phone Number",
+  "Password": "Password",
+  "AreYouForgetPassword": "Are You Forget Your Password ?",
+  "Enter" : "Enter",
+  "CreateAccount" : "CreateAccount",
+  "YouHaveNotAccount": "If You Haven't Account ?",
+  "OrLoginFromYour" : "Or Login From Your",
+  "Welcome": "Welcome",
+  "register":"Register",
+  "youAlreadyHaveAccount": "You Already Have Account ? "
+}
